@@ -6,4 +6,5 @@ end
 
 def toadstool
   puts status
+  phrase = ""
 end
